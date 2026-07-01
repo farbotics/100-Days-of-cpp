@@ -1,2 +1,2 @@
 # 100-Days-of-cpp
-Just a girl learning c++
+Documenting my journey of learnin c++ as an aspiring robotics engineer

@@ -1,2 +1,2 @@
 # 100-Days-of-cpp
-Documenting my journey of learnin c++ as an aspiring robotics engineer
+Documenting my journey of learning c++ as an aspiring robotics engineer
